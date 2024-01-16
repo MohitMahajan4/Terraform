@@ -1,0 +1,2 @@
+sqsname = "Manhal"
+snsname = "Manhal"
